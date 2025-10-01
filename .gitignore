@@ -3,3 +3,8 @@
 backup
 chroma-ollama
 chroma-openai
+*.log
+*.yaml
+*.cfg
+*.toml
+/data
